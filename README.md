@@ -29,7 +29,7 @@ This project transforms raw data into **business intelligence dashboards** that 
 
 ## 🔹 Deliverables
 - 📄 [High-Level Document](./docs/HighLevelDocument.pdf)  
-- 📄 Low-Level Document (coming soon)  
+- 📄 [Low-Level Document](./docs/LowLevelDocument.pdf)   
 - 🖼 Architecture Diagram (coming soon)  
 - 🖼 Wireframe (coming soon)  
 - 📊 Power BI Dashboard (coming soon)  
