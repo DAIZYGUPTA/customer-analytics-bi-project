@@ -31,9 +31,9 @@ This project transforms raw data into **business intelligence dashboards** that 
 - 📄 [High-Level Document](docs/High-Level%20Document%20(HLD).pdf)
 - 📄 [Low-Level Document](docs/Low%20Level%20Document%20(LLD).pdf)   
 - 🖼  [Architecture Diagram](docs/Customer%20Analytics%20Workflow%20Diagram.png) 
-- 🖼 Wireframe (coming soon)  
-- 📊 Power BI Dashboard (coming soon)  
-- 📜 Detailed Project Report (coming soon)  
+- 🖼 [Wireframe] (docs/Wireframe.pdf)  
+- 📊 [Power BI Dashboard] (Dashboard/amazon%20customer.pbix)  
+- 📜 [Detailed Project Report] (docs/detailed%20project%20report%20.pdf)  
 - 🎥 Demo Video (coming soon)  
 
 ---
